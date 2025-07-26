@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+torch
+mpmath
+sympy
+network
+fsspec 
+filelock
+torch
+supervision
+ultralytics
+seaborn
